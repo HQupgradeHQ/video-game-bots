@@ -5,7 +5,7 @@
 * https://hqupgradehq.github.io/video-game-bots/Appendix	
 * https://hqupgradehq.github.io/video-game-bots/BotsClassification
 * https://hqupgradehq.github.io/video-game-bots/ClickerBots	
-* https://hqupgradehq.github.io/video-game-bots/Examples	
+* https://github.com/HQupgradeHQ/video-game-bots/tree/master/Examples
 * https://hqupgradehq.github.io/video-game-bots/ExtraTechniques	
 * https://hqupgradehq.github.io/video-game-bots/InGameBots
 * [Send an email to the author](mailto:petrsum@gmail.com)
