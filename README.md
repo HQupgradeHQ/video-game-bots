@@ -1,22 +1,13 @@
 # Video Game Bots version 1.1
 
-**The book is still under development.**
+## This is saved archieve.
 
-This is not a guide, how to cheat and violate rules in video games. This is a book about approaches to automate a game process and about possible ways to avoid this kind of automation. We will discuss applications for automation specific aspects of the game process, which are named bots. You will find here a possible classification of the bots by their internal mechanics. The book covers most methods and technologies that are used by bot developers. Also, methods and technologies of the anti-cheating systems are considered here.
-
-This book provides answers and useful advices for such topics as process automation, reverse engineering and network applications. Modern bot applications use technologies of all these domains.
-
-## Disclaimer
-
-This document was written in the interest of education, and it has non-commercial purposes. The author cannot be held responsible for how the topics discussed in this document are applied. This document and the code in it come with absolutely no warranty, as it were.
-
-## Links
-
-* [Read the book online](https://www.gitbook.com/read/book/ellysh/video-game-bots)
-* [Download in PDF, ePub or Mobi formats](https://www.gitbook.com/book/ellysh/video-game-bots/details)
-* [New release announcements](https://twitter.com/petrsum)
-* [History of changes](CHANGELOG.md)
-* [Contributions, ideas, suggestions and fixes on gihub](https://github.com/ellysh/video-game-bots)
+* https://hqupgradehq.github.io/video-game-bots/Appendix	
+* https://hqupgradehq.github.io/video-game-bots/BotsClassification
+* https://hqupgradehq.github.io/video-game-bots/ClickerBots	
+* https://hqupgradehq.github.io/video-game-bots/Examples	
+* https://hqupgradehq.github.io/video-game-bots/ExtraTechniques	
+* https://hqupgradehq.github.io/video-game-bots/InGameBots
 * [Send an email to the author](mailto:petrsum@gmail.com)
 
 ## License
